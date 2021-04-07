@@ -1,7 +1,7 @@
 # YouTube-concept - учебный проект Артемкииии | Glo Academy
 Project created by: Moroshan Catalin
 
-## Используемые технологии
+## Used technologies
 - HTML
 - CSS
 - Normalize.css
