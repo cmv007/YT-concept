@@ -1,5 +1,5 @@
 # YouTube-concept - учебный проект Артемкииии | Glo Academy
-Проект выполнил: Морошан Кэтэлин
+Project created by: Moroshan Catalin
 
 ## Используемые технологии
 - HTML
