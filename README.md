@@ -1,4 +1,4 @@
-# YouTube-concept - учебный проект Артемкииии | Glo Academy
+# YouTube-concept - Educational project | MorCat
 Project created by: Moroshan Catalin
 
 ## Used technologies
