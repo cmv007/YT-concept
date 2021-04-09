@@ -86,7 +86,7 @@ searchBtn.addEventListener('click', () => {
 });
 
 if (document.documentElement.scrollWidth <= 640) {
-  this.channel-slider.destroy();
-  rec-channel-slider.destroy();
-  food-channel-slider.destroy();
+  swiper.destroy();
+  swipers.destroy();
+  swiperfood.destroy();
 }
